@@ -1,0 +1,1 @@
+# AspnetCore Docker Versioning Exercise
